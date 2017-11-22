@@ -1,0 +1,56 @@
+
+.containterall{
+	width: 60%;
+	margin: auto;
+	margin-top: 50px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 200;
+	font-size: 1em;
+
+}
+
+h1{
+	font-family: 'Playfair Display', serif; 
+	font-weight: 900;
+	font-size: 3em;
+}
+
+h2{
+	font-family: 'Playfair Display', serif;
+	font-style: italic; 
+	font-weight: 700;
+	font-size: 1.65em;
+	text-align:center;
+}
+
+h3{
+	font-family: 'Nunito', serif; 
+	font-weight: 700;
+	font-size: 1em;
+	
+
+}
+
+.small{
+	font-family: 'Nunito', sans-serif;
+	font-weight: 200;
+	font-size: .96em;
+}
+
+.paragraph{
+	display: inline-block;
+	width: 80%
+
+}
+
+.number{
+	font-family: 'Playfair Display', sans-serif;
+	display: inline-block;
+	width: 10%;
+	vertical-align: top;
+	font-weight: 900;
+	font-style: italic;
+	font-size: 30px;
+
+
+}
